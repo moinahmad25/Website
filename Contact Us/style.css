@@ -258,4 +258,8 @@ input{
 }
 .send i{
     margin-top: 0.5rem;
+    transition: .2s;
+}
+.send:hover .fi-ss-paper-plane{
+    color: black;
 }
